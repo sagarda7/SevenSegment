@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For SevenSegment
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SevenSegment	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+printNumber	KEYWORD2
+printTimer	KEYWORD2
+getMinutes	KEYWORD2
+getSeconds	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+NUM_DIGITS	LITERAL1

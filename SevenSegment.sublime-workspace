@@ -1,0 +1,243 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"lo",
+				"LOW"
+			],
+			[
+				"mot",
+				"motor_pin_1"
+			],
+			[
+				"uint",
+				"uint8_t"
+			],
+			[
+				"uin",
+				"uint8_t"
+			],
+			[
+				"u",
+				"uint8_t"
+			],
+			[
+				"New",
+				"NewStepper_h"
+			],
+			[
+				"prin",
+				"printNum"
+			],
+			[
+				"se",
+				"segmentsPin"
+			],
+			[
+				"digi",
+				"digitalWrite"
+			],
+			[
+				"out",
+				"outDigit"
+			],
+			[
+				"ou",
+				"outDigit"
+			],
+			[
+				"digit",
+				"digitalWrite"
+			],
+			[
+				"di",
+				"digits"
+			],
+			[
+				"dig",
+				"digitalWrite"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/BACKUPS/SoftBack/Electronics/USBAVR/usbnoobie/firmwarev3/firmwarev3/main.c",
+		"/F/BACKUPS/SoftBack/Electronics/arduino/Arduino 1.0.5/Arduino/libraries/SevenSegment/SevenSegment.cpp",
+		"/F/BACKUPS/SoftBack/Electronics/arduino/Arduino 1.0.5/Arduino/libraries/SevenSegment/SevenSegment.h",
+		"/F/BACKUPS/SoftBack/Electronics/arduino/Arduino 1.0.5/Arduino/libraries/Motor/Motor.h",
+		"/F/BACKUPS/SoftBack/Electronics/arduino/Arduino 1.0.5/Arduino/libraries/Motor/Motor.cpp",
+		"/F/BACKUPS/SoftBack/Electronics/arduino/Arduino 1.0.5/Arduino/libraries/Stepper/Stepper1.cpp",
+		"/F/BACKUPS/SoftBack/Electronics/arduino/arduino-1.0.3-windows/arduino-1.0.3/libraries/Stepper/Stepper.cpp",
+		"/F/BACKUPS/SoftBack/Electronics/arduino/Arduino 1.0.5/Arduino/libraries/NewStepper/NewStepper.h",
+		"/F/BACKUPS/SoftBack/Electronics/arduino/Arduino 1.0.5/Arduino/libraries/NewStepper/NewStepper.cpp",
+		"/C/Program Files/EasyPHP-5.3.8.1/www/sax.php",
+		"/C/Program Files/EasyPHP-5.3.8.1/www/keywords.xml",
+		"/F/BACKUPS/SoftBack/Electronics/arduino/Arduino 1.0.5/Arduino/libraries/SevenSegment/examples/Counter/Counter.ino",
+		"/F/BACKUPS/SoftBack/Electronics/arduino/Arduino 1.0.5/Arduino/libraries/SevenSegment/keywords.txt",
+		"/F/BACKUPS/SoftBack/Electronics/arduino/Arduino 1.0.5/Arduino/libraries/Motor/keywords.txt",
+		"/C/Program Files/Arduino/libraries/LiquidCrystal/LiquidCrystal.h",
+		"/C/Program Files/Arduino/libraries/SevenSegment/SevenSegment.cpp",
+		"/C/Program Files/Arduino/libraries/SevenSegment/SevenSegment.h",
+		"/C/Program Files/Arduino/libraries/LiquidCrystal/LiquidCrystal.cpp",
+		"/C/Program Files/Arduino/libraries/SevenSegment/keywords.txt",
+		"/C/Program Files/Arduino/libraries/SevenSeg/SevenSegment.h",
+		"/C/Program Files/Arduino/libraries/SevenSeg/SevenSegment.cpp"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"line-height",
+			"logo",
+			");\n",
+			"int",
+			"segmentPin",
+			"digits"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"uint8_t",
+			"segmentsPin"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "SevenSegment.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
