@@ -4,7 +4,7 @@ SevenSegment is an arduino library which can be used to interface and work with 
 # Install
 
 Clone (or download and unzip) the repository to `/libraries`
-which can be found in your arduino installation. currently this library supports only 3 seven segments
+which can be found in your arduino installation. currently this library supports only 4 seven segments
 
 # Usage
 
@@ -28,7 +28,7 @@ Initializes Seven Segments with with pin numbers for given parameters
 
 ```c++
 	void setup(){
-		 disp.begin(4,3,2,1,5,6,7,8,9,10,11,12); // begin(digit3,digit2,digit2,digit1,a,b,c,d,e,f,g,dot) pins 
+		 disp.begin(4,3,2,1,5,6,7,8,9,10,11,12); // begin(digit4,digit3,digit2,digit1,a,b,c,d,e,f,g,dot) pins 
 		 
 	}
 ```
