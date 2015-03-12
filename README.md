@@ -42,6 +42,43 @@ It prints given number to seven segment
   }
 ```
 
+### getNumber()
+
+It returns current number being printed to Seven Segment
+```c++
+
+  void loop(){
+  	int dynamic_value=355;
+  	 disp.printNumber(dynamic_value,2);
+  	  if(disp.getNumber()==355) {
+  	  	//do something
+  	  }
+  }
+```
+
+### printTimer(long sec)
+
+It prints given seconds to minute:seconds eg. printTimer(310) gives 5.10 in sevensegment 
+```c++
+  void loop(){
+  	  disp.printTimer(310);
+  }
+```
+
+
+
+### getMinutes() and getSeconds()
+
+It returns current minute and seconds value if printTimer is used
+```c++
+  void loop(){
+  	  disp.printTimer(310);
+  	  if(disp.getMinutes()==5 && disp.getSeconds()==30) {
+  	  	//do something
+  	  }
+  }
+```
+
 ### Full Working example of Counter
 
 
